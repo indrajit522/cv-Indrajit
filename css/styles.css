@@ -1,0 +1,162 @@
+
+/* @import "circle.css"; */
+/* .topcontainer{
+	padding-top: 50px;
+	background-color: #E4F9F5;
+	background-image: url(../image/pikai.jpg);
+	
+	padding-left: 20px;
+} */
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 22px;
+	
+	}
+
+h1{
+	margin: 0 auto 0 auto;
+	font-family: 'Sacramento', cursive;
+	font-size: 5.625rem;
+	color: #66BFBF;
+}
+h2{
+	font-family: 'Sacramento', cursive;
+	color: #66BFBF;
+	font-weight: normal;
+
+}
+h3{
+	font-family: 'Roboto Mono', monospace;
+	color: #66BFBF;
+	font-weight: normal;
+}
+.dp{
+	height: 150px;
+}
+/* .bottomcloud{
+	position: absolute;
+	top: 212px;
+}
+
+.topcloud{
+	position: relative;
+	left: 299px;
+	top: 21px;
+}
+
+.middlecontainer{
+	margin-top: 50px;
+	height: 390px;
+	width: 100%;
+
+}
+
+
+
+.bio{
+	padding: 20px 80px 20px 80px ;
+	color: #40514E;
+
+} */
+
+/* hr{
+	border-style: dotted inset;
+	border-top: 0;
+	width: 5%;
+	color: #1F4068;
+
+} */
+
+.bottomcontainer{
+	height: 693px;
+	width: 100%;
+	
+}
+
+.skills-row{
+	width: 50%;
+	margin: 70px auto 70px auto;
+	text-align: left;
+	line-height: 2;
+}
+.code{
+	width: 25%;
+	float: left;
+	margin-right: 30px; 
+}
+
+.game{
+	border-radius: 100%;
+	width:  25%;
+	float: right;
+	margin-left: 30px;
+}
+.lastcontainer{
+	padding top: 20px;
+	margin-bottom: 50px;
+}
+
+.BUTTON_SOO {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: linear-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: sans-serif;
+   font-size: 37px;
+   font-weight: 100;
+   padding: 30px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_SOO:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.bottom{
+	background-color: #66BFBF;
+	height: 100px;
+	padding-top: 50px;
+	margin-top: 80px;
+	
+}
+
+.fb{
+	text-decoration: none;
+	color: #11999E;
+}
+.mail{
+	text-decoration: none;
+	color: #11999E;
+}
+
+a:hover{
+	color: #EAF6F6;
+}
+.copyright{
+	margin-top: 40px;
+	margin-bottom: 0px;
+	color: #EAF6F6;
+	font-size: 0.75rem;
+	padding-bottom: 0px;
+}

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cv-Indrajit/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/cv-Indrajit/static/js/main.5431ad5e.chunk.js",
+    "main.js.map": "/cv-Indrajit/static/js/main.5431ad5e.chunk.js.map",
+    "runtime-main.js": "/cv-Indrajit/static/js/runtime-main.9653f071.js",
+    "runtime-main.js.map": "/cv-Indrajit/static/js/runtime-main.9653f071.js.map",
+    "static/js/2.c62c36b1.chunk.js": "/cv-Indrajit/static/js/2.c62c36b1.chunk.js",
+    "static/js/2.c62c36b1.chunk.js.map": "/cv-Indrajit/static/js/2.c62c36b1.chunk.js.map",
+    "static/js/3.9d79b490.chunk.js": "/cv-Indrajit/static/js/3.9d79b490.chunk.js",
+    "static/js/3.9d79b490.chunk.js.map": "/cv-Indrajit/static/js/3.9d79b490.chunk.js.map",
+    "index.html": "/cv-Indrajit/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/cv-Indrajit/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c62c36b1.chunk.js.LICENSE.txt": "/cv-Indrajit/static/js/2.c62c36b1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cv-Indrajit/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9653f071.js",
+    "static/js/2.c62c36b1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.5431ad5e.chunk.js"
+  ]
+}
